@@ -89,9 +89,10 @@ div.titre{
 	margin-left: 50px;
 	text-align: center;
 	color: #0288D1;
-	font-style: bold;
+	font-weight: bold;
 	font-size: 1.5em;
 	margin-bottom: 10px;
+	text-transform: uppercase;
 }
 
 #page p.moi{
@@ -105,15 +106,18 @@ div.titre{
 	color:#0288D1;
 	margin-left: 50px;
 	display: inline-block;
+	width: 300px;
 }
 
 #page div.desc{
 	color:#0288D1;
 	margin-left: 25%;
 	display: inline-block;
+	width: 472px;
 }
 
 #page .titleDip{
 	text-transform: uppercase; 
 	font-weight : bold;
+	font-size: 1.5em;
 }
