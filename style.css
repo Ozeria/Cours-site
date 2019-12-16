@@ -68,8 +68,8 @@ a {
 }
 
 #bloc {
-	margin-left:30px;
-	margin-right: 30px;
+	margin-left:50px;
+	margin-right: 50px;
 	height:3px;
 	font-size:0;
 	background: #0288D1;
@@ -86,7 +86,7 @@ div.galerie{
 
 div.titre{
 	display: inline-block;
-	margin-left: 30px;
+	margin-left: 50px;
 	text-align: center;
 	color: #0288D1;
 	font-style: bold;
@@ -103,7 +103,7 @@ div.titre{
 
 #page div.diplome{
 	color:#0288D1;
-	margin-left: 30px;
+	margin-left: 50px;
 	display: inline-block;
 }
 
